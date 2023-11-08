@@ -15,8 +15,7 @@ I've experience working in a private company and as a freelancer.
 
 - 🔭 I’m currently working as **Technicle Lead @ Sysco**
 - 🌱 I’m currently learning **Haskel**
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 🤔 I’m looking for help with digital marketing to drive traffic to my blog
+- 👯 I will help and collaborate on free and open-source projects
 - 💬 Ask me about **Architecture**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/sakithSRL), [Instagram](https://instagram.com/imasakith)**
