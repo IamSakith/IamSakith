@@ -13,7 +13,7 @@ Some of my key traits are:
 
 I've experience working in a private company and as a freelancer.
 
-- 🔭 I’m currently working as **Technicle Lead @ Sysco**
+- 🔭 I’m currently working as **Engineering Manager @ Sysco**
 - 🌱 I’m currently learning **Haskel**
 - 👯 I will help and collaborate on free and open-source projects
 - 💬 Ask me about **Architecture**
