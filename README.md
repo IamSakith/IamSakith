@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media-exp2.licdn.com/dms/image/C5116AQG3i10rQXK3fA/profile-displaybackgroundimage-shrink_200_800/0/1527273975280?e=1660780800&v=beta&t=7xBs6tO0FIlgkV_CnM0CyossRQWaADt5kQAj6jJM3eU" width="100%" alt="Banner">
+  <img src="" width="100%" alt="Banner">
 </div>
 
 <h3>ABOUT ME</h3>
@@ -14,7 +14,7 @@ Some of my key traits are:
 I've experience working in a private company and as a freelancer.
 
 - 🔭 I’m currently working as **Engineering Manager @ Sysco**
-- 🌱 I’m currently learning **Haskel**
+- 🌱 I’m currently learning **Rust/Zig**
 - 👯 I will help and collaborate on free and open-source projects
 - 💬 Ask me about **Architecture**
 - 📫 How to reach me:
