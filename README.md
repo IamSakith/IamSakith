@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="100%" alt="Banner">
+  <img src="https://www.publicdomainpictures.net/pictures/380000/velka/square-technology-icon.jpg" width="100%" alt="Banner">
 </div>
 
 <h3>ABOUT ME</h3>
