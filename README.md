@@ -20,7 +20,7 @@ I've experience working in a private company and as a freelancer.
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/sakithSRL), [Instagram](https://instagram.com/imasakith)**
 
-In general terms, I have 10 years of experience with the Java / C++ / Python / Scala ecosystem and 1 with the Java.
+In general terms, I have 15 years of experience with the Java / C++ / Python / Scala ecosystem and 1 with the Java.
 
 <h3>MY FRIEND</h3>
 has a message for you...
